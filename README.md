@@ -41,8 +41,9 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitoraraujodev&show_icons=true&theme=radical&count_private=true&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jvrei04&show_icons=true&theme=radical&count_private=true&cache_seconds=0" alt="GitHub Stats" />
 </p>
+
 
 ---
 
