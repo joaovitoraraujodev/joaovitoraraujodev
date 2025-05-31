@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Repos-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositório" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jo%C3%A3ovitorara%C3%BAjo/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/joaovitoraraujodev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
