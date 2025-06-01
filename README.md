@@ -21,7 +21,6 @@
 ## 🚀 Sobre mim
 
 - Técnico em Desenvolvimento de Sistemas  
-- Quero dominar **Java** e **SQL** para construir soluções eficientes  
 - Apaixonado por desenvolvimento de software, especialmente com Java e SQL Server  
 - Sempre buscando aprender e crescer com projetos práticos e desafios reais
 
