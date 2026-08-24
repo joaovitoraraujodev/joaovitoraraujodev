@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou João Vitor Araújo 👋</h1>
 
-<h3 align="center">Desenvolvedor BackEnd</h3>
+<h3 align="center">Desenvolvedor BackEnd | Foco em Observabilidade & Monitoramento de Sistemas</h3>
 
 <p align="center">
   <a href="https://github.com/joaovitoraraujodev" target="_blank" rel="noopener noreferrer">
@@ -20,22 +20,39 @@
 
 ## 🚀 Sobre mim
 
-- Técnico em Desenvolvimento de Sistemas  
-- Apaixonado por desenvolvimento de software, especialmente com Java e SQL Server  
-- Sempre buscando aprender e crescer com projetos práticos e desafios reais
+- 🛠 **Técnico em Desenvolvimento de Sistemas** com atuação voltada para infraestrutura de código, saúde e performance de aplicações backend.
+- 📊 Especializado no desenvolvimento e estruturação de soluções para **Monitoramento de Aplicações, Gestão de Logs, Métricas e APM (Application Performance Monitoring)**.
+- 💡 Apaixonado por criar arquiteturas resilientes em **Java, C# (.NET)** e otimização de bancos de dados **SQL Server**.
+- 🔍 Focado em rastreabilidade de erros, visibilidade de telemetria em tempo real e redução de MTTR (Mean Time to Resolution).
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🛠 Tecnologias & Observabilidade
 
+### BackEnd & Banco de Dados
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server_2022-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
+
+### Observabilidade, Métricas & Logs
+<p align="center">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+</p>
+
+---
+
+## 📈 Principais Áreas de Atuação
+
+- **Métricas & Dashboards:** Criação de painéis para monitorar consumo de memória, CPU, tempo de resposta de requisições e throughput.
+- **Rastreamento Distribuído (Tracing):** Instrumentação de código para acompanhamento do ciclo de vida das requisições através de microserviços e APIs.
+- **Gestão de Centralização de Logs:** Estruturação de logs estruturados em JSON para facilitar pesquisas rápidas e diagnósticos de falhas em produção.
+- **Alertas & Resiliência:** Configuração de gatilhos automáticos para falhas, indisponibilidade e gargalos em bancos de dados.
 
 ---
 
@@ -64,4 +81,4 @@
 
 ---
 
-<p align="center">🚀 Vamos construir algo incrível juntos! 🚀</p>
+<p align="center">🔍 Monitorando o presente para construir sistemas infalíveis no futuro! 🚀</p>
