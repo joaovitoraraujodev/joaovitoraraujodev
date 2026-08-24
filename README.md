@@ -22,7 +22,6 @@
 
 - 🛠 **Técnico em Desenvolvimento de Sistemas** com atuação voltada para infraestrutura de código, saúde e performance de aplicações backend.
 - 📊 Especializado no desenvolvimento e estruturação de soluções para **Monitoramento de Aplicações, Gestão de Logs, Métricas e APM (Application Performance Monitoring)**.
-- 💡 Apaixonado por criar arquiteturas resilientes em **Java, C# (.NET)** e otimização de bancos de dados **SQL Server**.
 - 🔍 Focado em rastreabilidade de erros, visibilidade de telemetria em tempo real e redução de MTTR (Mean Time to Resolution).
 
 ---
