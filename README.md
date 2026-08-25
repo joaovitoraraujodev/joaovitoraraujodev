@@ -1,17 +1,19 @@
 <h1 align="center">Olá, eu sou João Vitor Araújo 👋</h1>
 
-<h3 align="center">Desenvolvedor BackEnd | Foco em Observabilidade & Monitoramento de Sistemas</h3>
+<h3 align="center">
+Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicações | Automação
+</h3>
 
 <p align="center">
-  <a href="https://github.com/joaovitoraraujodev" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/joaovitoraraujodev" target="_blank">
     <img src="https://img.shields.io/github/followers/joaovitoraraujodev?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/joaovitoraraujodev?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub%20Repos-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositório" />
+
+  <a href="https://github.com/joaovitoraraujitories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repos-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositórios" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joaovitoraraujodev" target="_blank" rel="noopener noreferrer">
+
+  <a href="https://www.linkedin.com/in/joaovitoraraujodev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -20,15 +22,17 @@
 
 ## 🚀 Sobre mim
 
-- 🛠 **Técnico em Desenvolvimento de Sistemas** com atuação voltada para infraestrutura de código, saúde e performance de aplicações backend.
-- 📊 Especializado no desenvolvimento e estruturação de soluções para **Monitoramento de Aplicações, Gestão de Logs, Métricas e APM (Application Performance Monitoring)**.
-- 🔍 Focado em rastreabilidade de erros, visibilidade de telemetria em tempo real e redução de MTTR (Mean Time to Resolution).
+- 🛠 Técnico em Desenvolvimento de Sistemas com atuação voltada para Infraestrutura, Observabilidade e Automação.
+- 📊 Especializado na construção de soluções para Monitoramento de Aplicações, Gestão de Logs, Métricas, Dashboards e Monitoramento Sintético.
+- 🔍 Focado em rastreabilidade de erros, observabilidade em tempo real e redução de MTTR (Mean Time To Resolution).
+- 🚀 Atuação com automação de verificações de disponibilidade utilizando Playwright, Grafana, Zabbix e Azure Monitor.
 
 ---
 
 ## 🛠 Tecnologias & Observabilidade
 
 ### BackEnd & Banco de Dados
+
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -36,41 +40,103 @@
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-### Observabilidade, Métricas & Logs
+### Observabilidade, Logs & Monitoramento
+
 <p align="center">
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-</p>
+  <img alt="Loki" src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&mg alt="Tempo" src="https://img.shields.io/badge/Tempo-7B42BC?style=for-the-badge&logo=grafana& alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&hite
+  <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoo & DevOps
+
+<p align="center">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&mg alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badgewhite
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=</p>
 
 ---
 
 ## 📈 Principais Áreas de Atuação
 
-- **Métricas & Dashboards:** Criação de painéis para monitorar consumo de memória, CPU, tempo de resposta de requisições e throughput.
-- **Rastreamento Distribuído (Tracing):** Instrumentação de código para acompanhamento do ciclo de vida das requisições através de microserviços e APIs.
-- **Gestão de Centralização de Logs:** Estruturação de logs estruturados em JSON para facilitar pesquisas rápidas e diagnósticos de falhas em produção.
-- **Alertas & Resiliência:** Configuração de gatilhos automáticos para falhas, indisponibilidade e gargalos em bancos de dados.
+### 📊 Monitoramento de Aplicações
+
+- Monitoramento sintético de aplicações corporativas
+- Validação automatizada de login e disponibilidade
+- Coleta de métricas de performance
+- Evidências automatizadas por screenshots
+
+### 📋 Gestão de Logs
+
+- Centralização de logs com Grafana Loki
+- Logs estruturados em JSON
+- Pesquisa rápida de incidentes
+- Histórico de execução de aplicações
+
+### 📈 Métricas & Dashboards
+
+- Dashboards executivos
+- Dashboards técnicos
+- Indicadores de disponibilidade
+- Tempo médio de resposta
+- SLA e SLO
+
+### 🔎 Tracing & Observabilidade
+
+- Rastreamento distribuído com Grafana Tempo
+- Análise de fluxo entre sistemas
+- Identificação de gargalos
+- Correlação entre métricas e logs
+
+### 🖥 Infraestrutura
+
+- Monitoramento de servidores
+- CPU, memória e disco
+- Serviços Windows e Linux
+- Disponibilidade de rede
+
+### 🚨 Alertas & Resiliência
+
+- Alertas proativos
+- Monitoramento de falhas
+- Gestão de incidentes
+- Redução de MTTR
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### Monitoramento Sintético com Playwright
+
+- Automação de login em sistemas corporativos
+- Captura automática de evidências
+- Verificação de disponibilidade
+- Registro estruturado de logs
+- Integração com Grafana
+
+### Observabilidade Corporativa
+
+- Grafana
+- Loki
+- Tempo
+- Zabbix
+- Azure Monitor
+
+---
 
 ## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaovitoraraujodev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColort="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/jvrei04" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://www.instagram.com/jvrei04" target="elds.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<p align="center" style="font-size:1.1em;">
-  📞 (63) 99254-8757
+<p align="center">
+📞 (63) 99254-8757
 </p>
 
 ---
 
-<p align="center">🔍 Monitorando o presente para construir sistemas infalíveis no futuro! 🚀</p>
+<p align="center">
+🚀 Transformando dados de observabilidade em decisões inteligentes.
+</p>
