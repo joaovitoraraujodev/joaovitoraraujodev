@@ -47,7 +47,8 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 <p align="center">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img alt="Loki" src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
-  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logoColore Monitor" />
+  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+
 </p>
 
 <p align="center">
