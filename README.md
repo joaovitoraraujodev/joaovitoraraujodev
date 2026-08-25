@@ -44,7 +44,7 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 
 <p align="center">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img alt="Loki" src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&mg alt="Tempo" src="https://img.shields.io/badge/Tempo-7B42BC?style=for-the-badge&logo=grafana& alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&hite
+  <img alt="Loki" src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&mg alt="Tempo" 
   <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoo & DevOps
 
 <p align="center">
