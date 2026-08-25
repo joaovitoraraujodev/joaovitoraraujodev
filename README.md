@@ -1,3 +1,5 @@
+<br>
+
 <h1 align="center">Olá, eu sou João Vitor Araújo 👋</h1>
 
 <h3 align="center">
@@ -5,15 +7,15 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 </h3>
 
 <p align="center">
-  <a href="https://github.com/joaovitoraraujodev" target="_blank">
+  <a href="ithub.com/joaovitoraraujodev" target="_blank">
     <img src="https://img.shields.io/github/followers/joaovitoraraujodev?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
   </a>
 
-  <a href="https://github.com/joaovitoraraujitories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Repos-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositórios" />
+  <a href="https://github.com/joaovitoraraujodev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repos-181717?style=flat-square&logo=github&logoColor=white"itórios" />
   </a>
 
-  <a href="https://www.linkedin.com/in/joaovitoraraujodev" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovitorar_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -25,7 +27,7 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 - 🛠 Técnico em Desenvolvimento de Sistemas com atuação voltada para Infraestrutura, Observabilidade e Automação.
 - 📊 Especializado na construção de soluções para Monitoramento de Aplicações, Gestão de Logs, Métricas, Dashboards e Monitoramento Sintético.
 - 🔍 Focado em rastreabilidade de erros, observabilidade em tempo real e redução de MTTR (Mean Time To Resolution).
-- 🚀 Atuação com automação de verificações de disponibilidade utilizando Playwright, Grafana, Zabbix e Azure Monitor.
+- 🚀 Atuação com automação de verificações de disponibilidade utilizando Playwright, Grafana, Loki, Azure Monitor e Zabbix.
 
 ---
 
@@ -44,12 +46,13 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 
 <p align="center">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img alt="Loki" src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" 
-  <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoo & DevOps
+  <img alt="Loki" src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
+  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logoColore Monitor" src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />s://img.shields.io/badge/Playwright-2EAD33?style=forlogoColor=white
+</p>
 
 <p align="center">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&mg alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badgewhite
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=</p>
+  📞 <strong>(63) 99254-8757</strong>
+</p>
 
 ---
 
@@ -77,13 +80,6 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 - Tempo médio de resposta
 - SLA e SLO
 
-### 🔎 Tracing & Observabilidade
-
-- Rastreamento distribuído com Grafana Tempo
-- Análise de fluxo entre sistemas
-- Identificação de gargalos
-- Correlação entre métricas e logs
-
 ### 🖥 Infraestrutura
 
 - Monitoramento de servidores
@@ -110,26 +106,17 @@ Analista de Infraestrutura de TI | Observabilidade | Monitoramento de Aplicaçõ
 - Registro estruturado de logs
 - Integração com Grafana
 
-### Observabilidade Corporativa
+### Stack de Observabilidade
 
 - Grafana
 - Loki
-- Tempo
 - Zabbix
 - Azure Monitor
-
----
-
-## 📫 Contato
-
-
-
-<p align="center">
-📞 (63) 99254-8757
-</p>
+- Playwright
 
 ---
 
 <p align="center">
 🚀 Transformando dados de observabilidade em decisões inteligentes.
 </p>
+``
